@@ -1,0 +1,6 @@
+- Facilitar el acceso de los deportes a la ciudadania.
+- Incrementar el acceso de las nuevas tecnologías a la población.
+- Optimizar los recursos del ayuntamiento.
+- Simplificar el sistema de reserva.
+- Compatible con el anterior sistema.
+

@@ -1,0 +1,18 @@
+Posibilidad 1:
+
+    Organizador de partida:
+    - El organizador de la partida realiza la reserva normal hasta que activa la reserva social.
+    - Se establecen los jugadores actuales y los jugadores totales requeridos.
+    - En información adicional el organizador de la partida pondrá todos los detalles que los posibles jugadores pueden considerar interesantes 
+    como el nivel del/de los jugadores, forma de pago (si la requiere el organizador).
+    
+    Posible incorporación de jugadores a la partida:
+    - Al seleccionar la hora de la reserva social saldrá un formulario con: DNI, Nombre, apellidos y teléfono. Además saldrá, los campos de 
+    jugadores actuales (incluyendo los jugadores extra confirmados) y jugadores totales requeridos (ambos campos de sólo lectura).
+    
+    Confirmación de jugadores nuevos:
+    - Al lado del campo de DNI podría haber un boton "comprobar reserva", donde el organizador introduciría su DNI y podria:
+    - Cancelar la reserva (Sin confirmar).
+    - Confirmar la aceptación de nuevos jugadores. Para ello el organizador dispondrá de los números de teléfono de los solicitantes 
+    para poder hablar con ellos si fuera necesario.
+    
